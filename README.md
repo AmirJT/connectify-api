@@ -45,8 +45,6 @@ npm run dev
 
 ---
 
-
-
 ## 📌 Technologies Used
 - **Node.js**
 - **Express.js**
@@ -66,11 +64,11 @@ npm run dev
 ---
 
 ## 📌 License
-This project is licensed under the **MIT License**.
+N/A
 
 ---
 
 ## 📌 Contact
 For questions or contributions, reach out via GitHub.
 
-🚀 **Happy Coding!** 🎉
+
